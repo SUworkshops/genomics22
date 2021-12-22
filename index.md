@@ -72,7 +72,7 @@ are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 {% if page.eventbrite %}
-<h2 id="code-of-conduct">Registration</h2>
+<h2 id="code-of-conduct">Application</h2>
 
 <p>
 Thank you for joining us in the journey of learning programming in biology and especially for
@@ -85,14 +85,14 @@ This workshop in collaboration with  <a href="https://www.sabanciuniv.edu/en">Sa
 </p>
 
 <p>
-In order to successfully complete the workshop and get a certificate, attending all sessions for 7 weeks is required. In case of missing a week,  the participants will not be allowed to join to the workshop sessions for the rest of the weeks as well.
+In order to successfully complete the workshop and get a certificate, attending all sessions for 7 weeks is required. In case of missing a week, the participants will not be allowed to join to the workshop sessions for the rest of the weeks as well.
 
-If you want to attend this workshop and join us on this journey, please fill out the registration form below. You will be notified shortly after a review process.
+If you want to attend this workshop and join us on this journey, please fill out the application form below. You will be notified shortly after a review process.
 </p>
 
 <p class="text-center">
   <a href="https://forms.gle/b44DxKu2FpfQV79n7">
-    <button type="button" class="btn btn-info">Registration Form</button>
+    <button type="button" class="btn btn-info">Application Form</button>
   </a>
 </p>
 {% endif %}
