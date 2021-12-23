@@ -86,8 +86,10 @@ This workshop in collaboration with  <a href="https://www.sabanciuniv.edu/en">Sa
 
 <p>
 In order to successfully complete the workshop and get a certificate, attending all sessions for 7 weeks is required. In case of missing a week, the participants will not be allowed to join to the workshop sessions for the rest of the weeks as well.
+</p>
 
-If you want to attend this workshop and join us on this journey, please fill out the application form below <b> until Jan 5 2022</b> . You will be notified shortly after a review process. Applications after the deadline will not be considered.
+<p>
+If you want to attend this workshop and join us on this journey, please fill out the application form below <b>until Jan 5 2022</b>. You will be notified shortly after a review process. Applications after the deadline will not be considered.
 </p>
 
 <p class="text-center">
