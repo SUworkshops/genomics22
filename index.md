@@ -9,7 +9,7 @@ country: "Turkey"      # lowercase two-letter ISO country code such as "fr" (see
 language: "English"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "40.888409"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "29.374201"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "7 weeks - Jan 15 to Mar 7 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "7 weeks - Jan 15 to Feb 26 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "Saturdays - 9:00 am to 4:00 pm TRT (UTC+3)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2022-01-15      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-02-26        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -81,7 +81,7 @@ analysis world for biology.
 </p>
 
 <p>
-This workshop in collaboration with  <a href="https://www.sabanciuniv.edu/en">Sabanci University</a> will be conducted on Saturdays 9:00 am to 4:00 pm TRT (UTC+3) for 7 weeks, starting from January 15 to March 7 2022. 
+This workshop in collaboration with  <a href="https://www.sabanciuniv.edu/en">Sabanci University</a> will be conducted on Saturdays 9:00 am to 4:00 pm TRT (UTC+3) for 7 weeks, starting from January 15 to February 26 2022. 
 </p>
 
 <p>
